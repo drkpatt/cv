@@ -1,0 +1,38 @@
+  h1 {
+    font-family: Quicksand, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin:25px 0px;
+  }
+  img.profile-photo{
+    border-radius: 50%;
+    margin: 10px 0px 30px 0px;
+    height: 200;
+  }
+  div.welcome {
+    text-align: center;
+  }
+  body {
+    font-family: Quicksand, Helvetica, sans-serif;
+    font-size: 16px;
+  }
+  table {
+    border: solid 1px;
+    width:50%;
+    margin-left:25%;
+    margin-right:25%;
+    margin-top: 30px;
+    text-align: center;
+    border-spacing: 0;
+  }
+  th {
+    border-bottom: solid 1px;
+    font-weight: bold;
+    background: black;
+    color: white;
+    text-transform: uppercase;
+  }
+  th, tr, td{
+    padding: 10px;
+  }
